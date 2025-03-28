@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "AlanHolmes/laravel-vue-starter-kit",
+    "name": "alan-holmes/laravel-vue-starter-kit",
     "type": "project",
     "description": "My version of the Vue Starter Kit for Laravel with additional things that I like to use.",
     "keywords": [
